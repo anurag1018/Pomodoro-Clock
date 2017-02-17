@@ -1,0 +1,45 @@
+body{
+/*
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    left: 0;
+       
+    margin: auto; 
+*/
+text-align:center;
+    
+}
+#tomato{
+  
+//position:absolute;
+     background-image: url("tomate_tomato-1969px.png");
+    
+    background-size: 200px;
+    margin-left: auto;
+margin-right: auto;
+     width: 200px;
+    height: 200px;
+    
+     
+} 
+
+#tomato h1{
+    top:40%;
+    position: relative;
+}
+#flexer{
+    font-size: 40px;
+/*
+   display: -webkit-flex;
+    -webkit-flex-wrap: nowrap;
+*/
+    width:200px;
+    height: 150px;
+}
+.boxes{
+    width:50%;
+    height: 50px;
+    background: red;
+}
